@@ -1,0 +1,30 @@
+<object-stream>
+  <list>
+    <models.FictionBook>
+      <title>The Grass is Always Greener</title>
+      <author>Jeffrey Archer</author>
+      <isbn>1-86092-049-7</isbn>
+      <numOfPages>159</numOfPages>
+      <isAvailable>true</isAvailable>
+      <yearPublished>2000</yearPublished>
+      <genre>Modern Times</genre>
+    </models.FictionBook>
+    <models.FictionBook>
+      <title>	Murder!</title>
+      <author>Arnold Bennett</author>
+      <isbn>	1-86092-012-8</isbn>
+      <numOfPages>456</numOfPages>
+      <isAvailable>true</isAvailable>
+      <yearPublished>1915</yearPublished>
+      <genre>Crime</genre>
+    </models.FictionBook>
+    <models.Ebook>
+      <title>The Christmas Guest</title>
+      <author>Peter Swanson</author>
+      <isbn>9780571378807</isbn>
+      <numOfPages>238</numOfPages>
+      <isAvailable>true</isAvailable>
+      <interactivity>true</interactivity>
+    </models.Ebook>
+  </list>
+</object-stream>
